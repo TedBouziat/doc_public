@@ -1,0 +1,18 @@
+*See below for english version.*
+
+# 28 septembre 2017
+
+## Nouvelles fonctionnalités
+
+### Corrections d'anomalies et ajustements mineurs
+* Ajout de l'option "supprimer les images existantes" dans l'import des images points de vente
+* Ajout de la date de premier envoi du password dans l'export des users
+
+
+# English version - September 28th 2017
+
+## New features
+
+### Bug fixs and small improvements
+* Added the option "delete existing images" in the locations images import
+* Added the first sent password date in the user export file
