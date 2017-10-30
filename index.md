@@ -1,6 +1,6 @@
 ## Bienvenue 
 
-Accédez à l’ensemble des release notes dans le menu de gauche et retrouvez toutes les nouvelles fonctionnalisés de BRIDGE, corrections d’anomalies et ajustements mineurs livrés à chaque nouvelle release.
+Accédez à l’ensemble des release notes dans le menu de gauche et retrouvez toutes les nouvelles fonctionnalités de BRIDGE, corrections d’anomalies et ajustements mineurs livrés à chaque nouvelle release.
 
 ## Welcome
 
